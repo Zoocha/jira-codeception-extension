@@ -1,5 +1,5 @@
 {
-  "name": "ueslialmeida/jira-codeception-extension",
+  "name": "zoocha/jira-codeception-extension",
   "description": "This package provides an extension for Codeception to create Jira issues automatically when a test fails.",
   "license": "MIT",
   "keywords": [
