@@ -21,5 +21,5 @@
       "Codeception\\": "src"
     }
   },
-  "require": {},
+  "require": {}
 }
